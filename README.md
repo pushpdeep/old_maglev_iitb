@@ -1,2 +1,2 @@
-# old_maglev_iitb
-backup copy of old maglev iitb lab
+# Magnetic Levitation Laboratory
+Developed by IIT Bombay.
